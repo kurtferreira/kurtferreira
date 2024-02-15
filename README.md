@@ -1,16 +1,13 @@
-### Hi there 👋
+Howdy! I'm currently the Technical Director of Reload, a full-service advertising agency in sunny South Africa. I oversee most things technology both in research and development to tackle the challenges facing our clients as well as any internal tooling and infrastructure.
 
-<!--
-**reload-kurt/reload-kurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Any public repositories are likely to be something experimental I'm working on or just for interests' sake.
+When I'm not working on anything urgent, my spare time is spent pursuing the following hobbies:
 
-Here are some ideas to get you started:
+- Tinkering with a soldering iron and breaking circuit boards
+- Game development and systems
+- Swimming, hitting the gym where it hurts
+- Film and video
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ Kurt
+
+
